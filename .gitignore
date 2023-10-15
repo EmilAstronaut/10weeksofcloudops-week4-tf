@@ -4,3 +4,4 @@ ToDo-App/.terraform/*
 ToDo-App/.terraform_bkp/*
 modules/key/*
 .DS_Store/*
+test.txt
